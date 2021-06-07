@@ -1,4 +1,4 @@
-[![JavaScript Style Guide](https://img.shields.io/badge/Success-brightgreen.svg?style=flat-square&for-the-badge&logo=Verizon)](https://github.com/Azghour-Saad/frontend-coding-challenge) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
+
 # Front-end coding challenge
 
 ## Idea of the App
@@ -29,17 +29,6 @@ To get the 2nd page, you add `&page=2` to the end of your API request :
 To get the 3rd page, you add `&page=3` ... etc
 You can read more about the Github API over [here](https://developer.github.com/v3/search/#search-repositories
 ).
-
-
-## ScreenShoot
-
-![alt text](ScreenShoot.png)
-
-Here's what each element represents :
-
-![alt text](https://raw.githubusercontent.com/hiddenfounders/frontend-coding-challenge/master/row_explained.png)
-
-
 ## Technologies Used in Project
 
 - React
@@ -52,7 +41,7 @@ Here's what each element represents :
 ## Setup
 
 ```
-git clone https://github.com/Azghour-Saad/frontend-coding-challenge.git
+git clone https://github.com/Anas-Lamnini/FRONTEND-CODING-CHALLENGE
 
 cd frontend-coding-challenge
 
